@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jessica Garcia"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: About.qmd
+      - text: "Resume"
+        href: Resume.qmd
+      - text: "Projects"
+        href: Projects.qmd
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jessica-garcia78
+      - icon: github
+        href: https://github.com/dashboard
+format:
+  html:
+    theme: flatly
+    toc: true
