@@ -1,0 +1,8 @@
+---
+title: "Jessica Garcia"
+subtitle: Digital Marketing Student
+about:
+  template: jolla
+  image: images/Headshot.jpg
+  image-shape: round
+---
