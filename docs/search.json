@@ -7,6 +7,20 @@
     "text": "I am interested in Digital Marketing, Marketing Analytics, SEO, and Data Storytelling.\nThis website showcases my projects, and resume."
   },
   {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A collection of landing page redesign projects, using Squarespace, Wix and Adobe Portfolio.\n\n\n\nIn collaboration with a Non-Profit Organization, Trauma Resource Institute the focus was to redesign their donation landing page to increase the organizations donations.\n\n\n\n\n\nMock Donation Landing Page\n\n\n\nCreated this landing page as a school project to redesign the landing page for the Digital Marketing graduate program at Cal Poly Pomona.\n\n\n\n\n\nM.S Digital Marketing landing page\n\n\n\nA collection of data-driven projects using RStudio and Tableau which features dashboards, consumer insights and forecasting models.\n\nClimate Change\n\nClimate Change Marketing Forecast \n​Using historical climate change data from Kaggle focusing on three countries: U.S, Canada and Mexico. We developed a climate forecasting model, analyzing key environmental indicators including forest area, CO₂ emissions, sea level, rainfall, and temperature. Applied ARIMA modeling in RStudio to generate short-term climate projections and support data-driven sustainability strategies.\nNike Campaign Analysis\n\nDeveloped and designed an interactive Tableau dashboard to evaluate the performance of digital marketing campaigns for Nike, with a focus on key metrics such as ROI and CTR. The dashboard provided insights into customer behavior, enabling data-driven strategy optimization and enhanced campaign effectiveness.​​​​​​​​​​​​​​\n\n\n\n\nA set of ad copies created to focus on driving traffic to a Non-Profit Organizations website and create conversions by using persuasive language and CTA."
+  },
+  {
+    "objectID": "Projects.html#featured-projects",
+    "href": "Projects.html#featured-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "A collection of landing page redesign projects, using Squarespace, Wix and Adobe Portfolio.\n\n\n\nIn collaboration with a Non-Profit Organization, Trauma Resource Institute the focus was to redesign their donation landing page to increase the organizations donations.\n\n\n\n\n\nMock Donation Landing Page\n\n\n\nCreated this landing page as a school project to redesign the landing page for the Digital Marketing graduate program at Cal Poly Pomona.\n\n\n\n\n\nM.S Digital Marketing landing page\n\n\n\nA collection of data-driven projects using RStudio and Tableau which features dashboards, consumer insights and forecasting models.\n\nClimate Change\n\nClimate Change Marketing Forecast \n​Using historical climate change data from Kaggle focusing on three countries: U.S, Canada and Mexico. We developed a climate forecasting model, analyzing key environmental indicators including forest area, CO₂ emissions, sea level, rainfall, and temperature. Applied ARIMA modeling in RStudio to generate short-term climate projections and support data-driven sustainability strategies.\nNike Campaign Analysis\n\nDeveloped and designed an interactive Tableau dashboard to evaluate the performance of digital marketing campaigns for Nike, with a focus on key metrics such as ROI and CTR. The dashboard provided insights into customer behavior, enabling data-driven strategy optimization and enhanced campaign effectiveness.​​​​​​​​​​​​​​\n\n\n\n\nA set of ad copies created to focus on driving traffic to a Non-Profit Organizations website and create conversions by using persuasive language and CTA."
+  },
+  {
     "objectID": "Resume.html",
     "href": "Resume.html",
     "title": "Resume",
