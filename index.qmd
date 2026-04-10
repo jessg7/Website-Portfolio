@@ -6,3 +6,17 @@ about:
   image: images/Headshot.jpg
   image-shape: round
 ---
+
+## Introduction
+
+My name is Jessica Garcia and I am currently a Digital Marketing Student attending Cal Poly Pomona. While taking this program I have had exposure and practice on platforms like R studio, Positron, Tableau, Google Analytics, and much more! When I am not working on these platforms you can find me practicing on Adobe, using Canva and getting more familiar with Salesforce. Some hobbies of mine including working out, going to try out new coffee shops and playing video games.
+
+## Education
+
+Cal Poly Pomona \| Pomona, CA \| Master of Science in Digital Marketing, 2026
+
+Cal State Fullerton \| Fullerton, CA \|B.A. in Psychology, 2023
+
+## Experience
+
+Digital Marketer, Trauma Resource Institute, Inc., 2024-2025
